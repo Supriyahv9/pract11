@@ -11,5 +11,11 @@
 		<span style="background-color:red;border:2px solid green">Pune</span>
 		<span style="background-color:red;border:2px solid green">Pune</span>
 		<span style="background-color:red;border:2px solid green">Pune</span>
+		<span style="background-color:red;border:2px solid green">P1</span>
+		<span style="background-color:red;border:2px solid green">P1e</span>
+		<span style="background-color:red;border:2px solid green">P1</span>
+		<span style="background-color:red;border:2px solid green">P1</span>
+		<span style="background-color:red;border:2px solid green">P1</span>
+		<span style="background-color:red;border:2px solid green">P1</span>
 	</body>
 </html>
