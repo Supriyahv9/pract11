@@ -1,0 +1,10 @@
+<html>
+	<head>
+		<title>span</title>
+	</head>
+	<body>
+		<p>the most important industrial and educational hubs of India</p>
+		<span style="background-color:yellow;border:1px solid red" >the most important industrial and educational hubs of India</span><br />
+		<span style="background-color:red;border:2px solid green">Pune</span>
+	</body>
+</html>
